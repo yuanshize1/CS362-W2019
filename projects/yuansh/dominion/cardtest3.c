@@ -8,11 +8,10 @@
 
 int main()
 {
-	printf("** Card Test 1: Adventure **\n");
+	printf("\n**********Start Testing Village card**********\n");
 
 
-
-	printf("** End Card Test 1: Adventure **\n");
+	printf("\n**********End Testing Village card**********\n");
 
 	return 0;
 }

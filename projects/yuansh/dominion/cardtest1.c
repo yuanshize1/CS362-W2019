@@ -10,7 +10,6 @@ int main()
 {
 	printf("\n**********Start Testing adventurer card**********\n");
   
-
 	printf("\n**********End Testing adventurer card**********\n");
 
 	return 0;
