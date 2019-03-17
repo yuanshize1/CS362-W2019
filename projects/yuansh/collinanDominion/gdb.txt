@@ -1,0 +1,115 @@
+Starting program: /nfs/stak/users/yuansh/cs362/CS362-W2019/projects/yuansh/collinanDominion/a.out 3
+[Inferior 1 (process 12539) exited normally]
+Breakpoint 1 at 0x4008d6: file playdom.c, line 30.
+Starting program: /nfs/stak/users/yuansh/cs362/CS362-W2019/projects/yuansh/collinanDominion/a.out 3
+
+Breakpoint 1, main (argc=2, argv=0x7fffffffe118) at playdom.c:30
+30	      else if (handCard(i, &G) == silver)
+Continuing.
+
+Breakpoint 1, main (argc=2, argv=0x7fffffffe118) at playdom.c:30
+30	      else if (handCard(i, &G) == silver)
+Breakpoint 2 at 0x400c61: file playdom.c, line 100.
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+
+Breakpoint 2, main (argc=2, argv=0x7fffffffe118) at playdom.c:100
+100	          else if (handCard(i, &G) == gold){
+Continuing.
+[Inferior 1 (process 13870) exited normally]
+The program is not being run.
